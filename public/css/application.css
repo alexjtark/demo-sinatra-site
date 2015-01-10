@@ -1,4 +1,39 @@
 /*== MAIN ==*/
 body {
   border-top: 1em solid black;
+  background: url('http://www.psdgraphics.com/file/light-green-waves-background.jpg');
+  background-size: 100%;
+}
+
+
+.welcome {
+color: white;
+font-size: 50px;
+font-family: 'Righteous', cursive;
+text-align: center;
+background-color: #878a94;
+border-width: 70%;
+border-radius: 0px;
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+.funny {
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+padding-left: 20px;
+
+}
+
+p{
+  font-size: 25px;
+font-family: 'Amatic SC', cursive;
+}
+.text_input{
+  text-align: center;
+}
+
+form {
+    font-size: 25px;
+font-family: 'Amatic SC', cursive;
 }
